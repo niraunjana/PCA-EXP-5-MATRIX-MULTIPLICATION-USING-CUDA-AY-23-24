@@ -1,6 +1,6 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 
-<h3>ENTER YOUR NAME : Niraunjana Gayathri G r</h3>
+<h3>ENTER YOUR NAME : Niraunjana Gayathri G R</h3>
 <h3>ENTER YOUR REGISTER NO. : 212222230096</h3>
 <h3>EX. NO : 05</h3>
 <h3>DATE</h3>
